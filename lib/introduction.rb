@@ -3,4 +3,4 @@ def introduction(name)
 end
 
 def introduction_with_language(name, language)
-  puts "Hello ny name is #{name}, "
+  puts "Hello ny name is #{name} and I am "
